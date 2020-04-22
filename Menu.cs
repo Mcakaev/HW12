@@ -10,19 +10,19 @@ namespace Class_16._04_DayToDate
     {
         public void InputDay()
         {
-            Console.WriteLine("Input day of year");
+            Console.WriteLine("Enter day of year");
         }
 
         public void InputYear()
         {
-            Console.WriteLine("Input year");
+            Console.WriteLine("Enter year");
         }
 
         public int ReadDay()
         {
             int day = Convert.ToInt32(Console.ReadLine());
             if (day < 1 || day > 366)
-                throw new IndexOutOfRangeException("You entered invalid value");
+                throw new IndexOutOfRangeException("Enter correct number of day (1-366)");
             else return day;
         }
 
