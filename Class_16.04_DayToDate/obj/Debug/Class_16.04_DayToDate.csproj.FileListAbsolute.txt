@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Class_16.04_DayToDate\Class_16.04_DayToDate\bin\Debug\Class_16.04_DayToDate.exe.config
+C:\Users\User\source\repos\Class_16.04_DayToDate\Class_16.04_DayToDate\bin\Debug\Class_16.04_DayToDate.exe
+C:\Users\User\source\repos\Class_16.04_DayToDate\Class_16.04_DayToDate\bin\Debug\Class_16.04_DayToDate.pdb
+C:\Users\User\source\repos\Class_16.04_DayToDate\Class_16.04_DayToDate\obj\Debug\Class_16.04_DayToDate.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Class_16.04_DayToDate\Class_16.04_DayToDate\obj\Debug\Class_16.04_DayToDate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Class_16.04_DayToDate\Class_16.04_DayToDate\obj\Debug\Class_16.04_DayToDate.exe
+C:\Users\User\source\repos\Class_16.04_DayToDate\Class_16.04_DayToDate\obj\Debug\Class_16.04_DayToDate.pdb
